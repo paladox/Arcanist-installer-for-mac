@@ -1,0 +1,9 @@
+#!/bin/sh
+
+rm -rf /private/var/arcanist
+
+rm -rf /private/var/libphutil
+
+rm -rf /private/var/arc-temp
+
+rm /etc/paths.d/zmodemapp
