@@ -1,2 +1,4 @@
 .DS_Store
+arcanist-installer.pkg
+uninstaller/arcanist-uninstaller.pkg
 
